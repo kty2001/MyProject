@@ -1,3 +1,5 @@
+# 해당 url 정보 변경으로 인한 오류 발생
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 import requests
